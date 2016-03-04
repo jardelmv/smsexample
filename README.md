@@ -1,0 +1,2 @@
+# smsexample
+phonegap sms example
